@@ -33,7 +33,7 @@
 	fclose($fl);
 	
 	/*****************************send an email*****************************/
-	$to = "contact@jn-prestations.fr";
+	$to = "***********@**********r";
 	$subject = "Envoyé depuis le formulaire de contact";
 	$body = "";
 	foreach($newContact as $key=>$value){
